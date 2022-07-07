@@ -1,7 +1,7 @@
 # islami
 
 A new Flutter project.
-
+islamii project has tabs to show quraan and hadeth and sebha and other 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
